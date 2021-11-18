@@ -1,5 +1,5 @@
 {
-  "name": "day-17",
+  "name": "telegram_bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
     "node-telegram-bot-api": "^0.54.0"
   }
 }
